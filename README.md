@@ -4,7 +4,7 @@ IVDC's Projects for IITISoC '23
  IITISoC is an excellent opportunity for the students of IIT Indore to enhance your skills and get started with Open-Source Contribution.
  We present to you projects in Autonomous Driving, Robotics using tools like ROS , Matlab.
  
- We are proud to share that Mathworks will be mentoring us for 4 of our PS this time.
+ We are proud to share that  --**Mathworks**-- will be mentoring us for 4 of our PS this time.
  
 ## **IVR1 - Lane detection using limited computation power - Intermediate**
 <br>
